@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the Bonded Beadz website. This project is a modern, minimalist, and eye-catching single-page showcase for the handmade bracelet brand, created to provide an elegant online presence that mirrors the brand's aesthetic on Instagram.
 
-**[✨ View Live Demo ✨](https://your-live-project-url.com)** 
+**[✨ View Live Demo ✨](https://bonded-beads.netlify.app)** 
 *<-- Update this with your live deployment URL -->*
 
 ---
