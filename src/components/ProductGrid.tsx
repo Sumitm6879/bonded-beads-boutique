@@ -3,22 +3,22 @@ import { Card, CardContent } from '@/components/ui/card';
 const products = [
   {
     id: 1,
-    name: 'Azure Flower Bracelet',
-    price: '$22.00',
+    name: 'Friendship Bracelet',
+    price: '₹199.00',
     image: '/lovable-uploads/193bad5e-a9f9-4e91-9c05-b6a0771ffba8.png',
     description: 'Elegant teal and pink beaded bracelet with delicate charm details'
   },
   {
     id: 2,
-    name: 'Sunset Charm Bracelet',
-    price: '$18.00',
+    name: 'F1 maclaren keychain',
+    price: '₹399.00',
     image: '/lovable-uploads/03b5c715-e464-43e4-adb1-1169b4be9ac7.png',
     description: 'Vibrant orange and black beaded design with personalized letter charms'
   },
   {
     id: 3,
-    name: 'Midnight Pearl Bracelet',
-    price: '$25.00',
+    name: 'FlowerPearl Bracelet',
+    price: '₹299.00',
     image: '/lovable-uploads/0fa900dd-3754-4ede-bbb2-67c7377d2d53.png',
     description: 'Sophisticated teal and white bracelet with natural stone accents'
   }
